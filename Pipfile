@@ -10,7 +10,6 @@ gunicorn = "*"
 whitenoise = "==5.0.1"
 dj-database-url = "*"
 psycopg2-binary = "*"
-pillow = "==5.0.0"
 
 [dev-packages]
 
